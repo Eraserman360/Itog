@@ -1,0 +1,6 @@
+touch .gitignore
+
+/Vk_photos
+
+git add .gitignore
+git commit -m 'update gitignore'
